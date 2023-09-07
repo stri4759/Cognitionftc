@@ -28,7 +28,7 @@ body{
   border-radius: 5px;
 }
 .button:hover {
-    background-color: rgb(255, 149, 0);
+    background-color: #ff9500;
 }
 
 #main-header {
@@ -42,9 +42,10 @@ body{
 
 #navbar{
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(60,60,60);
+    background-color: rgb(0, 0, 0);
+    opacity: 85%;
     position: fixed; /* Set the navbar to fixed position */
-    top: 80px; /* Position the navbar at the top of the page */
+    top: 90px; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
     color: #fff;
 }
